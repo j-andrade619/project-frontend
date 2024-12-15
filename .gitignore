@@ -1,4 +1,4 @@
 .DS_STORE
 .idea
-.Node_Modules
-.dist
+node_modules
+dist
